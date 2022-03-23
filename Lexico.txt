@@ -1,0 +1,23 @@
+inicio
+[
+int a=2;
+double b=2.1;
+char z='a';
+String y="hol";
+]
+{
+if(a>=b)
+{
+b=a;
+}
+while(a<b)
+{
+a=a+1;
+}
+do
+{
+y=y+z;
+}
+while(a<b);
+}
+fin
